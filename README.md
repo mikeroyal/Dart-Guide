@@ -30,6 +30,10 @@
 
 ## Tools
 
+[Android Studio](https://developer.android.com/studio/) is the official integrated development environment for Google's Android operating system, built on JetBrains' IntelliJ IDEA software and designed specifically for Android development. Availble on Windows, macOS, Linux, Chrome OS.
+
+[IntelliJ IDEA](https://www.jetbrains.com/idea/) is an IDE for Java, but it also understands and provides intelligent coding assistance for a large variety of other languages such as Kotlin, SQL, JPQL, HTML, JavaScript, etc., even if the language expression is injected into a String literal in your Java code.
+
 [Dart DevTools](https://dart.dev/tools/dart-devtools) is a suite of debugging and performance tools for Dart and Flutter. These tools are distributed in IDEs, the flutter tool, the webdev tool, and the [devtools package](https://pub.dev/packages/devtools).
 
 [DartPad](https://www.dartpad.dev) is an online editor for Dart.
