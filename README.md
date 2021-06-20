@@ -6,7 +6,14 @@
 
 #### A guide covering Dart programming language including the applications and tools that will make you a better and more efficient Dart developer.
 
-## Resources
+**Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
+ 
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/122687553-e413c800-d1cb-11eb-9f50-6ecf271719ff.png">
+  <br />
+</p>
+
+# Dart Learning Resources
 
 [Dart](https://dart.dev/) is an open-source, scalable programming language, with robust libraries and runtimes, for building web, server, and mobile apps using the [Flutter](https://flutter.dev/) framework.
 
@@ -38,7 +45,7 @@
 
 [Contributing to Fuchsia](https://fuchsia.dev/fuchsia-src/CONTRIBUTING)
 
-## Tools
+# Dart Tools & Frameworks
 
 [Android Studio](https://developer.android.com/studio/) is the official integrated development environment for Google's Android operating system, built on JetBrains' IntelliJ IDEA software and designed specifically for Android development. Availble on Windows, macOS, Linux, Chrome OS.
 
@@ -63,3 +70,13 @@
 [AngularDart](https://webdev.dartlang.org/angular) is a productive web application framework that powers some of Google's most critical applications. It's built on Dart and used extensively by Google AdWords, AdSense, Fiber, and many more projects.
 
 [RxDart](https://pub.dev/packages/rxdart) is a package with Reactive Extensions for Dart that adds additional capabilities to Dart [Streams](https://api.dart.dev/stable/dart-async/Stream-class.html) and [StreamControllers](https://api.dart.dev/stable/dart-async/StreamController-class.html).
+
+
+## Contribute
+
+- [x] If would you like to contribute to this guide simply make a [Pull Request](https://github.com/mikeroyal/Dart-Guide/pulls).
+
+
+## License
+
+Distributed under the [Creative Commons Attribution 4.0 International (CC BY 4.0) Public License](https://creativecommons.org/licenses/by/4.0/).
